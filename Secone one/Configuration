@@ -1,0 +1,2 @@
+'git config --global user.name "Your name"': Set your name for all repositories
+'git config --global user. Email "Your email"': Set your email for all repositories
